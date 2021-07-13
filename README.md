@@ -14,3 +14,5 @@ Data Warehouse &amp; Data Mining 2021
   4 นางสาวอุมาพร   คำภิชัย       
   
   5 นางสาวพลอยบงกช   แสงโทโพธิ์       
+  
+  ![Coursework & Grading](DWDM21.jpg)
