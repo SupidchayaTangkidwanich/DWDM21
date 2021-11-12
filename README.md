@@ -96,3 +96,30 @@ Data Warehouse &amp; Data Mining 2021
           * Manhattan Distance (L1-norm)
           * Distance of Binary Value
     * [สรุป Lecture : Chapter 2](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/HW2.1(Chapter2).pdf)
+ * บทที่ 3 [Data Preprocessing](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
+    * Meta Data (Data ที่ใช้อธิบาย Data)
+    * ชี้ข้อมูลในตาราง
+      * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+      * ชี้เเบบ .iloc[] (มองข้อมูลเป็น matrix)
+    * Missing Values
+      * Handling Missing Value 1 (ลบค่า Missing )
+      * Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+      * Handling Missing Value 2 (เเทนด้วย class ใหม่(Unknown))
+      * Handling Missing Value 3 (เเทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+      * Handling Missing Value4(เเทนด้วย ค่ากลาง)
+      * Handling Missing Value 5 (เเทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+    * เติมด้วยค่าของ column ใกล้เคียง
+    * Select data by values [PD]
+      * สร้าง list ของ boolean
+      * นำ list ของ boolean มาเลือกค่าในตาราง
+      * การเรียงข้อมูล [PD]
+    * Outlier
+      * Pandas' looping(.iterrows)
+    * การรวมตาราง Data Integration (ต่อตารางในเเนวเเกน x)
+      * รวม 2 ตาราง (.merge())
+      * เลือกเฉพาะ column ที่ต้องการมาเเปะ (.map())
+      * ตารางรอง(ตารางข้างขวา)ต้องไม่มี index ซ้ำ*
+      * Group by (pandas)
+      * [PD] save ตารางเอาไปใช้ที่อื่น
+      * [PD] การสร้างตาราง
+    * [สรุป Lecture : Chapter 3](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter%203.pdf)
