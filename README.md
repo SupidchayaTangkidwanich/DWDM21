@@ -123,3 +123,26 @@ Data Warehouse &amp; Data Mining 2021
       * [PD] save ตารางเอาไปใช้ที่อื่น
       * [PD] การสร้างตาราง
     * [สรุป Lecture : Chapter 3](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter%203.pdf)
+ * บทที่ 4 [Data Warehousing & OLAP & Data Cube](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter4%20Data%20cube%20%26%20OLAP.pdf)
+    * Metadata Repository
+    * From tables and Spreadsheets to Data Cubes
+    * Data Cube A Lattics of Cuboids
+    * Conceptual Modeling of Data Warehouses
+    * Star Schema:An Example
+    * Snowflake Schema:An Example
+    * Fact Constellation:An Example
+    * Multidimensional Data
+    * A Sample Data Cube
+    * Typical OLAP Operations
+    * A Star-Net Query Model
+    * What is a Data Warehouse? (Data Warehouse คืออะไร ?)
+    * ประเภทของ Data Warehouse
+      * Data Warehouse-Subject-Oriented
+      * Data Warehouse-Integrated
+      * Data Warehouse-Time Variant
+      * Data Warehouse-Nonvolatile
+    * OLTP VS. OLAP
+    * Why a Separate Data Warehouse ? 
+    * Data Warehouse A Multi-Tiered Architecture
+    * Three Data Warehouses Models
+    * Extration,Transformation,and Loading (ETL)
