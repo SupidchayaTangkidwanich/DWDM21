@@ -23,7 +23,7 @@ Data Warehouse &amp; Data Mining 2021
   
  วิชา DATA WAREHOUSE AND DATA MINING (คลังข้อมูลและการทำเหมืองข้อมูล)
  
- * บทที่ 1 [introduction](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter1.pdf)
+ * บทที่ 1 [introduction](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter1.pdf) ประกอบด้วย หัวข้อต่อไปนี้
    * Why Data Mining ? (ทำไมต้องมีการทำเหมืองข้อมูล)
    * What is Data Mining ? (อะไรคือการทำเหมืองข้อมูล) 
    * Knowledge Discovery (KDD) Process
@@ -96,7 +96,7 @@ Data Warehouse &amp; Data Mining 2021
           * Manhattan Distance (L1-norm)
           * Distance of Binary Value
     * [สรุป Lecture : Chapter 2](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/HW2.1(Chapter2).pdf)
- * บทที่ 3 [Data Preprocessing](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb)
+ * บทที่ 3 [Data Preprocessing](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb) ประกอบด้วย หัวข้อต่อไปนี้
     * Meta Data (Data ที่ใช้อธิบาย Data)
     * ชี้ข้อมูลในตาราง
       * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
@@ -123,7 +123,7 @@ Data Warehouse &amp; Data Mining 2021
       * [PD] save ตารางเอาไปใช้ที่อื่น
       * [PD] การสร้างตาราง
     * [สรุป Lecture : Chapter 3](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter%203.pdf)
- * บทที่ 4 [Data Warehousing & OLAP & Data Cube](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter4%20Data%20cube%20%26%20OLAP.pdf)
+ * บทที่ 4 [Data Warehousing & OLAP & Data Cube](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter4%20Data%20cube%20%26%20OLAP.pdf) ประกอบด้วย หัวข้อต่อไปนี้
     * Metadata Repository
     * From tables and Spreadsheets to Data Cubes
     * Data Cube A Lattics of Cuboids
@@ -146,3 +146,11 @@ Data Warehouse &amp; Data Mining 2021
     * Data Warehouse A Multi-Tiered Architecture
     * Three Data Warehouses Models
     * Extration,Transformation,and Loading (ETL)
+* บทที่ 5 [Association Rules](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter6_Association_Rules.ipynb) ประกอบด้วย หัวข้อต่อไปนี้
+    * [Q] มีประเทศสาขาของ supermarket นี้ทั้งหมดกี่ประเทศ
+    * ลบ records ที่ถูก cancel ออกไป
+    * เพิ่มคอลัมน์ ยอดขาย (Quantity*UnitPrice)
+    * เพิ่ม column ราคารวม
+    * เตรียม Data สำหรับ (Frequence Pattern) Association Rule
+    * Apriori
+    * [สรุป Lecture : Chapter 5](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter6_Association_Rules(Short%20Notes).pdf)
