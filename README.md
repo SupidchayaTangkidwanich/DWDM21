@@ -96,6 +96,7 @@ Data Warehouse &amp; Data Mining 2021
           * Manhattan Distance (L1-norm)
           * Distance of Binary Value
     * [สรุป Lecture : Chapter 2](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/HW2.1(Chapter2).pdf)
+    * [สรุป Lecture : Similarity,Dissmilarity,and Proximity](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Similarity%2CDissmilarity%2Cand%20Proximity.pdf)
  * บทที่ 3 [Data Preprocessing](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb) ประกอบด้วย หัวข้อต่อไปนี้
     * Meta Data (Data ที่ใช้อธิบาย Data)
     * ชี้ข้อมูลในตาราง
