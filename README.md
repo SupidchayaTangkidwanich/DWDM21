@@ -154,3 +154,51 @@ Data Warehouse &amp; Data Mining 2021
     * เตรียม Data สำหรับ (Frequence Pattern) Association Rule
     * Apriori
     * [สรุป Lecture : Chapter 5](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter6_Association_Rules(Short%20Notes).pdf)
+* บทที่ 6 Classifications ประกอบด้วย หัวข้อต่อไปนี้
+  * [Decision Tree](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+    * Load Data
+    * Train Model
+      * import (เรียกใช้ algorithm ที่เราต้องการ)
+      * Define (กำหนด parameters ให้กับ model)
+      * train (ฝึกสอนตัวแบบ)
+    * Plot Tree
+    * Evaluation
+      * Random
+    * Advanced Tree
+      * Import
+      * Define
+      * Train
+    * TEST
+    * Start here
+      * Import
+      * Define
+      * Train
+      * Evaluate
+    * [สรุป Lecture : Decision Tree](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter7_Classification_Lecture.pdf)
+  * [KNN-NN](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap_7_Classification_(KNN_NN).ipynb)
+    * Load Data
+    * Split Data
+    * Train Model
+      * Import
+      * knn1
+      * knn2
+      * knn3
+    * Retrain & Evaluate
+    * Neural Network
+      * Import
+      * Define
+      * Train-Test
+      * ANN 2
+      * ANN 3
+    * [สรุป Lecture : Neural Network & Confusion Matrix](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap7%20Neural%20Network%20%26%20Confusion%20Matrix.pdf)
+  * [Evaluation](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+    * Load data
+    * แบ่ง Data
+    * สร้าง Model ทำนาย
+      * Import
+      * Define
+      * Train
+    * Evaluation
+    * [สรุป Lecture : Evaluation(Sensitivity&Specificity)](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap7%20Classification%20(Evaluation)%20Sensitivity%26Specificity.pdf)
+  
+  
