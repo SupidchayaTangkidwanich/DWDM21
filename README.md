@@ -175,6 +175,7 @@ Data Warehouse &amp; Data Mining 2021
       * Train
       * Evaluate
     * [สรุป Lecture : Decision Tree](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter7_Classification_Lecture.pdf)
+    * [สรุป Lecture : Gini & Overfitting](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter%207%20Gini%20%26%20Overfitting(Lecture).pdf)
   * [KNN-NN](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap_7_Classification_(KNN_NN).ipynb)
     * Load Data
     * Split Data
@@ -200,5 +201,23 @@ Data Warehouse &amp; Data Mining 2021
       * Train
     * Evaluation
     * [สรุป Lecture : Evaluation(Sensitivity&Specificity)](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap7%20Classification%20(Evaluation)%20Sensitivity%26Specificity.pdf)
+* บทที่ 7 [Clustering](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chap8_Clustering.ipynb) ประกอบด้วย หัวข้อต่อไปนี้
+  * K-means
+    * Generate Data
+    * Clustering
+      * Import
+      * Define
+      * Fit-Predict
+      * นับจำนวนสี
+      * จัดกลุ่มสีให้เหลือ 16 สี
+      * แปลงข้อมูลให้อยู่ในรูป row-column
+      * ใช้ centroid เป็นตัวเเทนของสี
+      * เเทนสีคืนลงไป
+ * Hierarchical Clustering
+ * Clustering Evaluation
+ * [สรุป Lecture : Chapter 7](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter%208%20Clustering%20K_mean.pdf)
+* [MiniExam](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/MiniExam.ipynb)
+* [โครงงาน (Project)](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/New_Project.ipynb)  
+  * สไลด์นำเสนอ 
   
   
