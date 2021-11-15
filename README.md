@@ -219,6 +219,6 @@ Data Warehouse &amp; Data Mining 2021
  * [สรุป Lecture : Chapter 7](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Chapter%208%20Clustering%20K_mean.pdf)
 * [MiniExam](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/MiniExam.ipynb)
 * [โครงงาน (Project)](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/New_Project.ipynb)  
-  * สไลด์นำเสนอ 
+  * [สไลด์นำเสนอ](https://github.com/SupidchayaTangkidwanich/DWDM21/blob/main/Slide%20Project.pdf) 
   
   
